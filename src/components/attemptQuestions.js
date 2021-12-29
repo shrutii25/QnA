@@ -68,7 +68,7 @@ const AttemptQuestions = () => {
         </Col>
         <Col>
           <div className="flex-heading">
-            <h2>Attemt Questions Here</h2>
+            <h2>Attempt Questions Here</h2>
             <SetTimer />
           </div>
           <br />
